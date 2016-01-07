@@ -21,7 +21,7 @@ Provides an easy to use date picker for SimpleForm.
 
 === In your simple forms
 
-  = f.input :date_attribute, :as :datepicker
+  = f.input :date_attribute, as: :datepicker
   
 === In app/assets/javascripts/application.js
 
