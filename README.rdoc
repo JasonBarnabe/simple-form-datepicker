@@ -1,10 +1,10 @@
-= simple-form-datepicker
+= simple-form-datepicker-reloaded
 
-* {Homepage}[https://rubygems.org/gems/simple-form-datepicker]
-* {Documentation}[http://rubydoc.info/gems/simple-form-datepicker/frames]
+* {Homepage}[https://rubygems.org/gems/simple-form-datepicker-reloaded]
+* {Documentation}[http://rubydoc.info/gems/simple-form-datepicker-reloaded/frames]
 * {Email}[mailto:paul at tymate.com]
 
-{<img src="https://badge.fury.io/rb/simple-form-datepicker.png" alt="Gem Version" />}[http://badge.fury.io/rb/simple-form-datepicker]
+{<img src="https://badge.fury.io/rb/simple-form-datepicker-reloaded.png" alt="Gem Version" />}[http://badge.fury.io/rb/simple-form-datepicker-reloaded]
 
 == Description
 
@@ -17,7 +17,7 @@ Provides an easy to use date picker for SimpleForm.
 
 == Examples
 
-  require 'simple-form-datepicker'
+  require 'simple-form-datepicker-reloaded'
 
 === In your simple forms
 
@@ -66,7 +66,7 @@ Initialize JQueryUI's datepicker:
 == Install
 
 
-  $ gem install simple-form-datepicker
+  $ gem install simple-form-datepicker-reloaded
 
 == Copyright
 
