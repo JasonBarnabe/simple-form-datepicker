@@ -18,7 +18,7 @@ Provides an easy to use date picker for SimpleForm.
 ## Installation
 ##### Add this to your gemfile
 
-    gem 'simple-form-datepicker'
+    gem 'simple-form-datepicker-reloaded'
 
 ##### In app/assets/javascripts/application.js
 
