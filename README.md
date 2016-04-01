@@ -17,27 +17,31 @@ Provides an easy to use date picker for SimpleForm.
 
 ## Installation
 ##### Add this to your gemfile
-
-  gem 'simple-form-datepicker'
+    gem 'simple-form-datepicker'
 
 ##### In app/assets/javascripts/application.js
 
-  //= require jquery.ui.all
+    //= require jquery.ui.all
 or
-  //= require jquery.ui.datepicker
+    //= require jquery.ui.datepicker
+    
 or just the localisations:
- //= require jquery.ui.datepicker-en
- //= require jquery.ui.datepicker-es
- //= require jquery.ui.datepicker-fr
+
+    //= require jquery.ui.datepicker-en
+    //= require jquery.ui.datepicker-es
+    //= require jquery.ui.datepicker-fr
 
 ##### In app/assets/stylesheets/application.css
 
-  *= require jquery.ui.datepicker
+    *= require jquery.ui.datepicker
 
 ##### In your simple forms
-  = f.input :date_attribute, :as :datepicker
+
+    = f.input :date_attribute, :as :datepicker
+
   or
-  <%= f.input :release_date, as: :datepicker %>
+
+    <%= f.input :release_date, as: :datepicker %>
 
 ##### Initialize JQueryUI's datepicker:
 ```javascript
